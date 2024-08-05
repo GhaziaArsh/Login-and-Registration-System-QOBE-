@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1720258338 source:c:\users\pmls\desktop\reeha cde\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+	<windows.h>
+	<bits/stdc++.h>
+	<unordered_map>
+	<cstdlib>
+
+1720258338 source:g:\2nd semester material\oop (object oriented programming)\final project\reeha cde\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+	<windows.h>
+	<bits/stdc++.h>
+	<unordered_map>
+	<cstdlib>
+
